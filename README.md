@@ -1,28 +1,3 @@
-# 📦 Merge Reports 
+# 📦 Modules Reports 
 ```
-⬆️ (Replace above with your app's name)
-```
-
-This allows a user to Merge the Module Spredsheet with the WEP data. 
-
-## Demo App
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://starter-kit.streamlitapp.com/)
-
-# TO DO 
-Version - 0.1
-- Remove Date from Due Date, may not exist in raw data. - ✅
-- Insert Column 'Months in DDP' to Calculate the 30 months. - ❌
-    * Have been able to calculate the dates, now need to turn the time delta into a float. Or turn it into months. 
-- Filter out DQC Completion Date, filter on blanks - ❌
-- Convert the CSV file into an excel file - ❌
-- Add error message if someone selects Start Merge with out adding a file - ❌
-
-# TO DO 
-Version - 0.2
-- Remove Date from Due Date, may not exist in raw data. - ✅
-- Insert Column 'Months in DDP' to Calculate the 30 months. - ✅
-    * Have been able to calculate the dates, now need to turn the time delta into a float. Or turn it into months. 
-- Filter out DQC Completion Date, filter on blanks - ✅
-- Convert the CSV file into an excel file - ✅
-- Add error message if someone selects Start Merge with out adding a file - ❌
+This code states how many modules were sat in a give month. 
